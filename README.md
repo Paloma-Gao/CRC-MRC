@@ -1,5 +1,5 @@
 # CRC-MRC
-code for paper 《CRC-MRC: Reader Comments Augmented Machine Reading Comprehension for Social Emotion Prediction》
+Code for paper 《CRC-MRC: Reader Comments Augmented Machine Reading Comprehension for Social Emotion Prediction》
 
 It is a Clustering-based Reader Comments Augmented Machine Reading Comprehension framework~({CRC-MRC}) to comprehensively model the reading process from the readers' perspective while browsing news and comments.
 
@@ -13,7 +13,7 @@ Install the required packages using pip
 ```bash
 pip install -r requirements.txt
 ```
-download the pretrain model and put it on pretrained_model_path_/
+download the pre-trained model and put it on pretrained_model_path_/
 ### Usage
 Set up OPENAI key in src/args.py
 
