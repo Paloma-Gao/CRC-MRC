@@ -23,7 +23,11 @@ cd src/scripts
 bash run.sh
 ```
 
-Or ```bash cd src/MRC```
+Or 
+```bash 
+cd src/MRC
+```
+
 Then Run the main.py to start
 
 ```python
