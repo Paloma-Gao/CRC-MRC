@@ -1,6 +1,7 @@
 # CRC-MRC
 code for paper 《CRC-MRC: Reader Comments Augmented Machine Reading Comprehension for Social Emotion Prediction》
-a Clustering-based Reader Comments Augmented Machine Reading Comprehension framework~({CRC-MRC}) to comprehensively model the reading process from the readers' perspective while browsing news and comments.
+
+It is a Clustering-based Reader Comments Augmented Machine Reading Comprehension framework~({CRC-MRC}) to comprehensively model the reading process from the readers' perspective while browsing news and comments.
 
 ## ✈️ Getting Started
 
